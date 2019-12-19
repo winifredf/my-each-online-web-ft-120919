@@ -8,3 +8,7 @@ def my_each # put argument(s) here
   end
   return array
 end
+
+my_each([0,1,2,3,4]) do |number|
+  number * 2
+end
