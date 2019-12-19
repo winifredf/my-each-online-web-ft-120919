@@ -1,7 +1,7 @@
 def my_each # put argument(s) here
   # code here
-
-while
+index = 0
+while index 
 
 
 end
